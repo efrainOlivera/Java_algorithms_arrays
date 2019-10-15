@@ -4,6 +4,7 @@ Basics
 Now that you've familiarized yourself with Java a bit, you decided you really wanted to try and find an internship working with Java. After applying, you were sent the following code challenge:
 
 Objectives:
+
 ● Implement the Basic 13 algorithms in java.
 
 ● Practice Array and ArrayList.
